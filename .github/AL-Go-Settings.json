@@ -3,5 +3,6 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go@mazhelez/custom-files",
   "templateSha": "76dec4dab059ba2c892933d16c1133ef21923364",
-  "country": "dk"
+  "country": "dk",
+  "useCompilerFolder": true
 }
