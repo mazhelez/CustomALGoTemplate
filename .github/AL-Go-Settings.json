@@ -6,5 +6,10 @@
   "country": "dk",
   "useCompilerFolder": true,
   "updateALGoFiles": {
-    "filesToUpdate": [ { "sourcePath": "SECURITY.md" }]
+    "filesToUpdate": [ 
+      { 
+        "sourcePath": "SECURITY.md" 
+      }
+    ]
+  }
 }
