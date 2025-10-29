@@ -4,5 +4,7 @@
   "templateUrl": "https://github.com/microsoft/AL-Go@mazhelez/custom-files",
   "templateSha": "fc2f2582308740b511359ab85b4e981510ab2597",
   "country": "dk",
-  "useCompilerFolder": true
+  "useCompilerFolder": true,
+  "updateALGoFiles": {
+    "filesToUpdate": [ { "sourcePath" = "SECURITY.md" }]
 }
