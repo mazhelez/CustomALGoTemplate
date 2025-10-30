@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/mazhelez/custom-files/Actions/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go@mazhelez/custom-files",
-  "templateSha": "1909b22794414b21c077ed4e2a5371f9594a0a6d",
+  "templateSha": "aa714ecce67d3aaaba732a9071a483e7c69df834",
   "country": "dk",
   "useCompilerFolder": true,
   "updateALGoFiles": {
