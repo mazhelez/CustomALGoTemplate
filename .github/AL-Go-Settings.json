@@ -8,7 +8,6 @@
   "updateALGoFiles": {
     "filesToUpdate": [ 
       { 
-        "sourcePath": "SECURITY.md" 
       }
     ]
   }
