@@ -10,7 +10,10 @@
       {
         "filter": "SECURITY.md",
         "origin": "custom template"
-      }
+      },
+      {
+        "filter": "commonScript.ps1",
+        "perProject": true
     ]
   }
 }
